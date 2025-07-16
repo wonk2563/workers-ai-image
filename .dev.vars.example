@@ -1,4 +1,4 @@
 # Example Cloudflare API token
 # Generated on Cloudflare dashboard with "Workers AI" edit access
-CLOUDFLARE_ACCOUNT_ID="EXAMPLE"
-CLOUDFLARE_API_TOKEN="FOO"
+CLOUDFLARE_API_TOKEN=""
+CLOUDFLARE_ACCOUNT_ID=""

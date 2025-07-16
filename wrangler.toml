@@ -1,5 +1,5 @@
 #:schema node_modules/wrangler/config-schema.json
-name = "workers-ai-image-playground"
+name = "ai-img"
 compatibility_date = "2024-09-25"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
@@ -8,8 +8,8 @@ pages_build_output_dir = ".vercel/output/static"
 binding = "AI"
 
 [[r2_buckets]]
-bucket_name = "ai-img-playground"
+bucket_name = "ai-img"
 binding = "BUCKET"
 
 [vars]
-CLOUDFLARE_ACCOUNT_ID = "dc56444c4c955a1653106ccf997c1067"
+CLOUDFLARE_ACCOUNT_ID = "5445f664fc2c76e9f50b40ab589e8bd9"
